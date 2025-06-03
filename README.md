@@ -38,7 +38,7 @@ An intelligent Python code generation and execution platform that learns from fa
 
 1. **Clone or download the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vaisnavrr/Recursive-Code-Generator-Executor
    cd raie
    ```
 
